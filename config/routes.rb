@@ -2,5 +2,6 @@ Rails.application.routes.draw do
   namespace :api do
     resources :greetings, only: :index
   end
-  # root "articles#index"
+
+  root "message#index"
 end
