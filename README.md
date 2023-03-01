@@ -13,7 +13,7 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Hello Rails/React ](#-hello-railsreact-)
   - [🛠 Built With ](#-built-with-)
-    - [Ruby on Rails ](#ruby-on-rails-)
+    - [Ruby on Rails and React ](#ruby-on-rails-and-react-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
@@ -37,12 +37,12 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Ruby on Rails <a name="tech-stack"></a>
+### Ruby on Rails and React <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://rubyonrails.org/">RoR Views/Teplates</a></li>
+    <li><a href="https://rubyonrails.org/">RoR Views and React</a></li>
   </ul>
 </details>
 
