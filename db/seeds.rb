@@ -1,0 +1,5 @@
+Greeting.create(message: 'Welcome to hello-rails-react app!')
+Greeting.create(message: 'Happy learning rails/react single app!')
+Greeting.create(message: 'This is full-stack rails-react app!')
+Greeting.create(message: 'Have sweet time learning this!')
+Greeting.create(message: 'Hi there! What is up?!')
